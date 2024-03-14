@@ -47,31 +47,36 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> -->
 
- <a href="https://github.com/Bouaskaoun">
+ <a href="https://github.com/Midiros">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Music+Enthusiast;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 </a>
 </p>
+
 <br />
 
 <!-- About Section -->
  # About me
+
+<!-- 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/327920583423688714?&animated=false&hideTimestamp=true&hideDiscrim=true&theme=dark&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/327920583423688714)
+-->
+
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
  ✌️ &emsp; I enjoy programming and learning new stuff, even outside of the CS field! <br/><br/>
  ❤️ &emsp; Love listening to music and playing games.<br/><br/>
- <!-- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>-->
+ <!-- 📧 &emsp; Reach me anytime: <br/><br/>-->
  💬 &emsp; Ask me about anything [here](https://github.com/Midiros/Midiros/issues).<br><br/>
- 💬 &emsp; Or message me on my Discord profile (shown bellow).<br><br/>
+ 💬 &emsp; Or message me on my Discord profile (shown below).<br><br/>
+ <a href="https://discord.com/users/327920583423688714">
+ <img align="center" src="https://lanyard-profile-readme.vercel.app/api/327920583423688714?&animated=false&hideTimestamp=true&hideDiscrim=true&theme=dark&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...">
+ </a>
 </p>
-<br/>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/327920583423688714?&animated=false&hideTimestamp=true&hideDiscrim=true&theme=dark&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/327920583423688714)
-<br/>
 <br/>
 <br/>
 
-## The techstack i work in ! In some more profficient than other. Each day i get better at some part.
+## The techstack i work in ! In some more profficient than other.
+## Each day i get better at some part.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -82,17 +87,20 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 <br/>
 
 ## Some of my projects -
 [![Backgammon](https://github-readme-stats.vercel.app/api/pin/?username=Midiros&repo=Backgammon&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Midiros/Backgammon)
 [![Twitter knockoff](https://github-readme-stats.vercel.app/api/pin/?username=DanielRiha8906&repo=NSQL_Tweeter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DanielRiha8906/NSQL_Tweeter)
+[![Laboratories registration](https://github-readme-stats.vercel.app/api/pin/?username=KopyTKG&repo=Laborky&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/KopyTKG/Laborky)
+[![OONV](https://github-readme-stats.vercel.app/api/pin/?username=Midiros&repo=OONV_MangaDB&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Midiros/OONV_MangaDB)
 
 <p align="left">
   <a href="https://github.com/Midiros?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -116,9 +124,9 @@
 
 <a> 
     <a href="https://github.com/Midiros"><img alt="Midiro's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Midiros&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Midiros"><img alt="Midiro's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Midiros"><img alt="Midiro's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Midiros&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Midiro's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Midiros&custom_title=Midiro's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
