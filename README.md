@@ -13,7 +13,7 @@
  -->
 
 <a href="https://komarev.com/ghpvc/?username=Midiros">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Midiros&color=2f81f7&label=Visitors&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=Midiros&color=7F3FBF&label=Visitors&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -28,9 +28,9 @@
 <p align="center"> 
   <samp>
     <br>
-     :large_blue_diamond: I am an university student at <b>UJEP</b>:large_blue_diamond: 
+     :arrow_forward: I am an university student at <b>UJEP</b> :arrow_backward: 
     <br>
-     :large_blue_diamond: <b><a target="_blank" href="https://www.ujep.cz/en/"> Univerzita Jana Evangelisty Purkyně - Ústí nad Labem</b> :large_blue_diamond:
+     :arrow_forward: <b><a target="_blank" href="https://www.ujep.cz/en/"> Univerzita Jana Evangelisty Purkyně - Ústí nad Labem</b> :arrow_backward:
     <br>
   </samp>
 </p>
@@ -48,7 +48,7 @@
  </a> -->
 
  <a href="https://github.com/Midiros">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=2f81f7&pause=1000&random=true&lines=Computer%20Science%20Student;Don't+wish+it+were+easier%2C+wish+you+were+better.;I+used+to+be+an+adventurer+like+you%2C+until+I+took+an+arrow+to+the+knee.;Music+Enthusiast;Awful+gamer;Sarcastic+prick;Avid+moviegoer;Science+isn't+about+why!+It%E2%80%99s+about+why+not!;Praise+the+sun!;The+cake+is+a+lie;Always%20learning%20new%20things&center=true&width=800&height=60">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=7F3FBF&pause=1000&random=true&lines=Computer%20Science%20Student;Don't+wish+it+were+easier%2C+wish+you+were+better.;I+used+to+be+an+adventurer+like+you%2C+until+I+took+an+arrow+to+the+knee.;Music+Enthusiast;Awful+gamer;Sarcastic+prick;Avid+moviegoer;Science+isn't+about+why!+It%E2%80%99s+about+why+not!;Praise+the+sun!;The+cake+is+a+lie;Always%20learning%20new%20things&center=true&width=800&height=60">
 </a>
 </p>
 
