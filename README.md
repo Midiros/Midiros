@@ -12,8 +12,8 @@
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=Midiros">
+  <img align="right" src="https://komarev.com/ghpvc/?username=Midiros&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -39,7 +39,6 @@
 <!--  <a href="https://linkedin.com/in/al-siam" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a> -->
-  [![Discord Presence](https://lanyard.cnrad.dev/api/327920583423688714&hideTimestamp=true)](https://discord.com/users/327920583423688714)
  <!-- <a href="https://twitter.com/_alsiam" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a> -->
@@ -47,6 +46,10 @@
  <!-- <a href="https://instagram.com/_alsiam" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> -->
+
+ <a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Music+Enthusiast;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+</a>
 </p>
 <br />
 
@@ -60,10 +63,10 @@
  ❤️ &emsp; Love listening to music and playing games.<br/><br/>
  <!-- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>-->
  💬 &emsp; Ask me about anything [here](https://github.com/Midiros/Midiros/issues).<br><br/>
- 💬 &emsp; Or message me on my Discord profile (shown above).
-
+ 💬 &emsp; Or message me on my Discord profile (shown bellow).<br><br/>
 </p>
-
+<br/>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/327920583423688714?&animated=false&hideTimestamp=true&hideDiscrim=true&theme=dark&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/327920583423688714)
 <br/>
 <br/>
 <br/>
