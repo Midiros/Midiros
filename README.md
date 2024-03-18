@@ -1,16 +1,3 @@
-<!--
-<h2 align="center">
-  Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
-
-<!--
-<p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
 
 <a href="https://komarev.com/ghpvc/?username=Midiros">
   <img align="right" src="https://komarev.com/ghpvc/?username=Midiros&color=7F3FBF&label=Visitors&style=flat" alt="Profile visitor" />
@@ -36,15 +23,15 @@
 </p>
 
 <p align="center">
-<!--  <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+<!--  <a href="https://linkedin.com/in/midiros" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="midiros"/>
  </a> -->
- <!-- <a href="https://twitter.com/_alsiam" target="_blank">
+ <!-- <a href="https://twitter.com/midiros" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a> -->
  
  <!-- <a href="https://instagram.com/_alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="midiros" />
  </a> -->
 
  <a href="https://github.com/Midiros">
@@ -57,20 +44,12 @@
 <!-- About Section -->
  # About me
 
-<!-- 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/327920583423688714?&animated=false&hideTimestamp=true&hideDiscrim=true&theme=dark&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/327920583423688714)
--->
-
  
 <p size="20px">
  ✌️ &emsp; I enjoy programming and learning new stuff, even outside of the CS field! <br/><br/>
  ❤️ &emsp; Love listening to music and playing games.<br/><br/>
- <!-- 📧 &emsp; Reach me anytime: <br/><br/>-->
+ <!-- 📧 &emsp; add email in the future?: <br/><br/>-->
  💬 &emsp; Message me on Discord, if you have any questions or just wanna talk.<br><br/>
- 
- <!-- <a href="https://discord.com/users/327920583423688714">
- <img align="center" src="https://lanyard-profile-readme.vercel.app/api/327920583423688714?&animated=false&hideTimestamp=true&hideDiscrim=true&theme=dark&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...">
- </a> -->
  
 </p>
 <br/>
