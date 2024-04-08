@@ -50,8 +50,9 @@
  ❤️ &emsp; Love listening to music and playing games.<br/><br/>
  <!-- 📧 &emsp; add email in the future?: <br/><br/>-->
  💬 &emsp; Message me on Discord, if you have any questions or just wanna talk.<br><br/>
- 
+ <img src="https://dcbadge.vercel.app/api/shield/327920583423688714" />
 </p>
+
 <br/>
 
 ## The techstack I am working with.
