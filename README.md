@@ -1,8 +1,8 @@
-
+<!--
 <a href="https://komarev.com/ghpvc/?username=Midiros">
   <img align="right" src="https://komarev.com/ghpvc/?username=Midiros&color=7F3FBF&label=Visitors&style=flat" alt="Profile visitor" />
 </a>
-
+-->
 
 <!-- Intro  -->
 <h3 align="center">
